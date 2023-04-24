@@ -1,0 +1,13 @@
+Animals	baboon, otter, snake, squirrel, wallaby, cheetah, salamander, tortoise, kangaroo, dog, ox, cod, ferret, hedgehog, gerbil, wolf, goldfish, porcupine, badger, cow, gazelle, cougar, bear, salmon, lizard, llama
+Clothes	petticoat, blouse, clog, suspender, smock, parka, bikini, sweatshirt, fleece, chemise, slipper, slip, jerkin, sweater, underskirt, kilt, earmuffs, jumper, salopettes
+Birds	hummingbird, penguin, peacock, parrot, albatross, emu, crow, goose, thrush, sandpiper, eagle, vulture, sparrow, dove, tern, crane
+Vehicles	wagon, pantechnicon, dinghy, speedboat, coach, hovercraft, sledge, wheelchair, sidecar, cart, ambulance, surfboard, rocket, scooter, skateboard
+Instruments	ocarina, recorder, tuba, tom-tom, zither, lute, kazoo, cembalo, trombone, accordion, concertina, harp, timpani, synthesiser
+Tools	plane, ruler, scraper, pickaxe, jack, spade, micrometer, pick, pincers, clamp, callipers, hatchet, spanner
+Fruits	fig, pomegranate, berry, strawberry, pear, gooseberry, lemon, orange, apricot, prune, greengage, olive, blueberry
+Flowers	hollyhock, orchid, marguerite, poppy, lupin, petunia, anemone, pansy, carnation, wallflower, lavender
+Insects	ladybird, cicada, weevil, fly, slug, tick, maggot, snail, aphid, greenfly
+Furniture	radio, fire, typewriter, desk, picture, sink, armchair, settee, futon
+Vegetables	aubergine, swede, cauliflower, sprout, cucumber, cabbage, mushroom
+Jewellery	watch, earring, chain
+Trees	elm, sapling, spruce

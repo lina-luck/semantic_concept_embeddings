@@ -1,0 +1,13 @@
+Animals	moose, crocodile, orangutan, vole, mink, lion, hyena, reindeer, goat, elk, panda, crab, camel, dingo, whale, chinchilla, dolphin, mongoose, cat, jaguar, leopard, muskrat, shrimp, ass, lynx, terrapin
+Clothes	coat, shawl, sarong, bloomers, trainer, beret, overalls, dress, garter, jeans, knickers, mackintosh, skirt, apron, sweatband, robe, anorak, cap, slacks
+Birds	finch, yellowhammer, coot, kestrel, cuckoo, partridge, hawk, condor, starling, parakeet, owl, lark, curlew, bluetit, swallow
+Vehicles	aeroplane, raft, van, tanker, hydroplane, tricycle, balloon, trap, tractor, bus, ferry, minibus, yacht, sleigh, rickshaw
+Instruments	clarinet, harpsichord, mandolin, trumpet, fiddle, castanets, harmonium, panpipes, maraca, viola, spinet, tambourine, organ
+Tools	tweezers, rake, dividers, hoe, torch, anvil, gauge, bolt, lathe, penknife, mallet, crowbar, sandpaper
+Fruits	almond, redcurrant, guava, peach, sultana, mandarin, pineapple, acorn, peanut, banana, raisin, elderberry, kumquat
+Flowers	fuchsia, chrysanthemum, gypsophila, sunflower, clematis, tulip, jasmine, heather, rhododendron, iris, hydrangea
+Insects	slater, midge, grasshopper, louse, earwig, cockroach, worm, centipede, gnat, mosquito
+Furniture	dresser, lamp, cooker, carpet, fireplace, bath, cupboard, wardrobe
+Vegetables	bean, beetroot, marrow, carrot, celery, onion
+Jewellery	choker, necklace, bangle
+Trees	maple, oak

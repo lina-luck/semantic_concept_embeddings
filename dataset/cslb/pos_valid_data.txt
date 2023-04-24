@@ -1,0 +1,395 @@
+is_small	eye, mushroom, moped, beetle, peanut, magpie, mask, camera, television, speedboat, gherkin, banjo, dragonfly, spoon, lizard, rice, scalpel, telephone, trowel, sycamore, plum, shotgun, cod, flannel, bolts, pipe, lipstick, bracelet, spirit_level, starling, dresser, hyena, dagger, jar, peach, toad, sparrow, ball, stick_insect, pansy, flea, marigold, wallet, woodpecker, radish, termite, centipede, millipede, tangerine, pennicillin, chipmunk, knickers, worm, moth, harmonica
+made_of_metal	spoon, stool, banjo, wheel, tweezers, pliers, spatula, belt, coffin, dresser, arm, unicycle, oven, swing, van, ashtray, trolley, tricycle, trowel, accordion, raft, microscope, sledge, bra, deckchair, toaster, coffee_machine, cymbal, rocket, watch, mop, club, hutch, hammer, saxophone, recorder, fence, helmet, hook, rollerskate, gate, jar, organ, rake, oil_tanker, tyre, dinghy, basket, crane, badge
+made_of_plastic	rattle, coffee_pot, bicycle, basket, fridge, button, goggles, watch, coach, bow, coffee_machine, doll, fork, screw, trolley, ladle, drill, wheel, bus, tricycle, sandals, dishwasher, bracelet, basin, can_opener, microwave, clarinet, desk, dice, spirit_level, spade, rolling_pin, pliers, truck, range_rover, tongs, peg, bowl, bolts, boots, mat, broom, scissors
+is_big_large	cymbal, caravan, tugboat, locust, trout, tent, plate, ship, cockroach, desk, tuna, helicopter, houseboat, swan, lily, train, ladder, jeep, harp, ham, peacock, hornet, truck, panther, shotgun, rhubarb, seal, whale, chain, plough, sycamore, fir, eucalyptus, trolley, coat, sunflower, oil_tanker, pumpkin, bookcase, cloak, catapault, crocodile, gorilla
+is_useful	strainer, wheelchair, mirror, range_rover, mat, can_opener, dishwasher, cutting_board, bucket, pin, jar, tripod, wallet, coffee_pot, trowel, book, finger, box, pennicillin, drill, jug, spoon, caravan, telephone, plate, catalogue, broom, chisel, bolts, tray, codeine, bra, bowl, bottle, clock
+made_of_wood	raft, puppet, bridge, boat, pistol, pencil, knife, comb, barge, spatula, yoyo, shotgun, crayon, table, crossbow, peeler, ferry, penknife, stick, bench, machete, dresser, wheel, mirror, spirit_level, stool, bed, drum, mop, pipe, tugboat
+is_an_animal	eel, toad, shrimp, flounder, hamster, cockroach, beaver, hummingbird, platypus, octopus, pelican, guinea_pig, minnow, butterfly, chipmunk, cheetah, beetle, pigeon, moth, crayfish, moose, dove, goldfish, iguana, penguin, flea, hedgehog, grasshopper, elephant, panther
+is_eaten_edible	corn, cricket, cod, apple, nut, pie, cake, crayfish, clam, caterpillar, aubergine, kangaroo, biscuit, cockerel, banana, pig, octopus, mushroom, broccoli, scallop, jam, marigold, ox, herring, cherry, fern, calf, pineapple, asparagus
+has_legs	woodpecker, moose, goose, hyena, stool, donkey, termite, lamb, falcon, pony, tripod, panther, lobster, wolf, frog, dragonfly, horse, ostrich, monkey, lion, raven, crocodile, armchair, bear, wasp, seagull, nightingale, dove, kingfisher
+is_long	cape, thermometer, rake, worm, coffin, pipe, houseboat, foot, cigar, cannon, comb, dress, bath, tongs, gherkin, screw, slug, sock, shotgun, asparagus, nail, jellyfish, bed, ruler, cigarette, parka, clarinet, stick
+is_circular_round	stone, lime, nectarine, umbrella, ring, finger, garlic, key, melon, rolling_pin, cup, apple, peach, courgette, octopus, peanut, plate, cutting_board, tambourine, marble, aspirin, olive, onion, cauliflower, wheel, thumb, gherkin, doorknob
+is_brown	coffee, giraffe, owl, cow, termite, onion, moth, starling, barrel, ostrich, chest_of_drawers, monkey, elm, millipede, platypus, wallet, sweet_potato, lion, stone, ant, cockroach, violin, potato, fox, cigar, worm, lips
+does_eat	alligator, calf, minnow, tortoise, crayfish, lips, kangaroo, dolphin, hyena, locust, hippo, nightingale, spider, budgie, penguin, peacock, monkey, giraffe, tiger, mouse, beetle, zebra, bear, falcon, dragonfly, crocodile
+is_heavy	chest_of_drawers, tank, stove, projector, club, tuba, microscope, oil_tanker, crowbar, accordion, surfboard, box, land_rover, trombone, brick, encyclopaedia, jeep, rock, bomb, coffee_machine, bucket, bell, trolley, saxophone, bus
+has_eyes	frog, shrimp, alligator, crocodile, cockroach, hamster, deer, pony, rhino, spider, guinea_pig, kingfisher, bear, pelican, stick_insect, buffalo, gerbil, flounder, snail, hippo, tortoise, dove, tarantula, sparrow
+is_tasty	parsley, apricot, whisky, ice_cream, asparagus, pie, cake, duck, mango, coffee, herring, lamb, broccoli, biscuit, nectarine, tomato, raspberry, nut, plum, chicken, jelly, olive, aubergine, beer
+is_white	rice, chestnut, llama, garlic, flour, cockerel, daffodil, seal, cauliflower, raccoon, basin, radish, dishwasher, marble, champagne, shirt, grapefruit, limousine, wand, hamster, orchid, rhino, microwave, yacht
+is_dangerous	alligator, chainsaw, rocket, hornet, bullet, lorry, tiger, rollerskate, spider, needle, harpoon, lizard, termite, horse, range_rover, hatchet, hippo, bow, shotgun, candle, rock, pipe
+is_black	hornet, cloak, heron, tiger, suit, gun, housefly, football, swimsuit, scorpion, coffee, beetle, bee, currant, bear, tights, magpie, bullet, turkey, camera, ant, cannon
+has_a_handle_handles	sledge, tweezers, spade, ladle, gun, fridge, pistol, coffee_pot, coffin, tray, rake, spanner, saw, spear, pram, toilet, whisk, basket, cymbal, gate, puppet
+has_a_tail	nightingale, pony, hedgehog, canary, llama, whale, shrimp, goldfish, helicopter, carp, zebra, leopard, deer, goat, goose, trout, tuna, monkey, otter, cheetah
+is_strong	rock, gate, chest_of_drawers, crocodile, hoe, bat, rhino, fence, cutting_board, helmet, castle, chair, gong, whisky, walrus, elm, wine, tripod, leopard
+is_thin	comb, pin, skis, shawl, rake, spatula, screwdriver, crane, needle, asparagus, worm, ham, minnow, fir, rattlesnake, seashell, swimsuit, tweezers, rhubarb
+is_soft	sweet_potato, sultana, seal, dressing_gown, prune, pony, lamb, cheese, sock, cradle, ice_cream, grapefruit, peas, dates, flannel, squid, flour, caterpillar, apricot
+is_alive	canary, wren, bee, hyacinth, marigold, hedgehog, magpie, iguana, crab, stick_insect, centipede, scorpion, dandelion, poppy, rose, moss, eucalyptus, emu, pansy
+does_grow	radish, orange, nut, wren, rice, mushroom, blueberry, coconut, eucalyptus, corn, hyacinth, chestnut, cabbage, lettuce, orchid, pear, satsuma, onion, sweet_potato
+is_noisy_loud	tambourine, revolver, grasshopper, dog, hamster, coffee_machine, hawk, housefly, bagpipes, whistle, pig, recorder, parakeet, walrus, drill, ferry, trombone, tugboat
+is_food	sugar, satsuma, milk, pigeon, cake, raisin, mackerel, sweet_potato, broccoli, jelly, butter, soup, bean, jam, seaweed, herring, dates, sardine
+is_hard	artichoke, cheese, peanut, bell, nail, helmet, melon, desk, can_opener, nut, yoyo, armour, tray, button, crowbar, grater, surfboard, plate
+is_used_in_cooking	peach, lime, butter, asparagus, toaster, scallop, garlic, aubergine, tomato, brussel_sprouts, rice, parsley, salmon, prune, kitchen_scales, blender, microwave
+is_green	mango, avocado, cricket, geranium, sycamore, moss, rhubarb, seaweed, asparagus, caterpillar, grasshopper, pineapple, kingfisher, orchid, eucalyptus, leek
+is_colourful	mittens, leotard, skirt, buggy, watermelon, orchid, umbrella, budgie, carnation, flip_flops, pyjamas, starling, beetle, kingfisher, sunflower, cap
+is_pretty_attractive_beautiful	eye, sunflower, necklace, willow, horse, falcon, marigold, carriage, poppy, veil, carnation, fox, bracelet, ladybird, harp, dragonfly
+made_of_fabric_cloth_material	dress, earmuffs, mask, bed, apron, bra, doll, pyjamas, napkin, whip, sofa, kite, bikini, ball, sock, badge
+is_expensive	oven, piano, microscope, violin, cello, aeroplane, orchid, washing_machine, blueberry, tank, tobacco, watch, jeep, strawberry, limousine
+is_fast	harpoon, mackerel, motorcycle, moped, aeroplane, hummingbird, centipede, bullet, hyena, dragonfly, alligator, sledge, tiger, deer
+has_flesh	apple, melon, elephant, skunk, garlic, olive, courgette, clam, sweet_potato, nectarine, raspberry, dove, banana
+is_a_tool	microscope, hook, typewriter, penknife, strainer, rake, harpoon, hoe, pliers, scalpel, boomerang, watch, chisel
+is_red	radish, tongue, plum, kingfisher, lobster, penknife, lips, scorpion, termite, olive, heart, hair, fox
+is_light	frisbee, balloon, fork, grape, canoe, kayak, whisk, veil, bat, flip_flops, menu, thimble, umbrella
+has_four_legs	hamster, platypus, rhino, horse, hedgehog, piano, bed, hyena, skunk, rabbit, crocodile, fox, desk
+has_fur_hair	wasp, seal, donkey, giraffe, flea, walrus, hedgehog, guinea_pig, deer, bear, fox, goat, moose
+is_yellow	canary, courgette, clamp, peach, butter, melon, leopard, corn, buttercup, mayonnaise, pyramid, jelly, taxi
+is_healthy	grapefruit, watermelon, nectarine, parsley, artichoke, rice, dates, apple, rhubarb, soup, satsuma, lettuce
+is_worn	cloak, leotard, ring, dressing_gown, suit, trousers, sandals, slippers, thimble, cape, swimsuit, cap
+does_smell_is_smelly	cabbage, cheese, buttercup, camel, cigarette, orchid, salmon, fox, yoghurt, parsley, cauliflower, pine
+has_feet	parakeet, canary, budgie, armchair, guinea_pig, peacock, raven, tripod, elephant, hummingbird, dove, cockerel
+does_fly	boomerang, wasp, helicopter, sparrow, magpie, parakeet, pelican, owl, arrow, peacock, grasshopper
+has_wings	stick_insect, ladybird, turkey, moth, termite, cockerel, starling, cricket, woodpecker, nightingale, penguin
+is_shiny	badge, dagger, chestnut, bayonet, bullet, spoon, needle, fork, cherry, french_horn, tuba
+is_a_mammal	fox, zebra, lamb, porcupine, mouse, raccoon, leopard, buffalo, seal, llama, camel
+is_grown	peas, mushroom, parsley, tea, cabbage, potato, tobacco, tulip, lily, sunflower, coffee
+has_a_head	woodpecker, beetle, goose, pin, tuna, octopus, centipede, pony, peacock, iguana, nail
+is_rectangular_square	television, radio, mat, cushion, harmonica, dice, gherkin, buckle, coffin, textbook, raft
+does_lay_eggs	emu, mosquito, wren, raven, frog, tortoise, heron, falcon, hawk, flea, partridge
+has_claws	scorpion, platypus, eagle, iguana, turkey, alligator, panther, pigeon, lobster, lion
+is_sweet	pear, mango, tangerine, jelly, prune, apricot, jam, melon, apple, chestnut
+is_sharp	chainsaw, crowbar, machete, hedgehog, spade, syringe, corkscrew, seashell, harpoon, crossbow
+is_sold_bought_in_supermarkets_shops	brandy, hutch, artichoke, tyre, ring, peanut, satsuma, biscuit, cabbage, lemonade
+is_handheld	tongs, kite, ice_cream, brush, tambourine, flute, pen, rifle, gun, bagpipes
+is_old_fashioned	satchel, gown, pipe, blouse, shield, stockings, axe, wheelbarrow, stove, throne
+does_carry_transport	van, sledge, ant, donkey, rollerskate, oil_tanker, horse, trolley, helicopter, train
+has_leaves	celery, rhubarb, oak, rose, lettuce, tea, broccoli, elm, tulip, parsley
+is_a_plant	tea, coffee, spinach, broccoli, tobacco, parsley, hyacinth, rhubarb, corn, elm
+does_make_sound_a_noise	hummingbird, gong, bell, woodpecker, trumpet, starling, guitar, tambourine, bagpipes, bee
+is_grey	hippo, donkey, goat, shark, rhino, goose, nail, mouse, rat, raccoon
+has_teeth	cheetah, bear, bat, crocodile, lion, tiger, flea, beaver, monkey
+is_found_in_kitchens	coffee_pot, cutting_board, kitchen_scales, cupboard, spatula, microwave, mop, flour, corkscrew
+made_of_bones	fox, comb, toe, buzzard, tuna, hippo, giraffe, kingfisher, thumb
+does_kill	jellyfish, buzzard, alligator, tobacco, penknife, scorpion, cigar, revolver, grenade
+has_a_stalk_stem	carrot, tomato, tulip, cherry, marigold, pear, orchid, strawberry, pansy
+does_come_in_colours	tulip, lipstick, rose, pen, mouse, boots, flannel, chair, rabbit
+is_clothing	gown, veil, buckle, sandals, sock, boots, armour, shoes, pyjamas
+has_a_seat_seats	tricycle, van, ferry, taxi, bicycle, carriage, train, helicopter, motorcycle
+has_skin_peel	melon, nectarine, avocado, grapefruit, prune, pumpkin, pineapple, satsuma, sweet_potato
+is_pink	worm, rose, orchid, raspberry, jellyfish, lips, ibuprofen, tongue, flamingo
+is_flat	tambourine, flounder, surfboard, window, flannel, newspaper, bat, screwdriver, coin
+does_swim	swan, toad, mackerel, hippo, lobster, eel, seahorse, octopus, frog
+does_move	skateboard, houseboat, snail, turtle, bus, puppet, arm, worm, pram
+is_found_in_seas	herring, pelican, flounder, minnow, tuna, seal, cod, turtle, raft
+does_protect	sandals, wetsuit, parka, tank, sword, apron, boots, earmuffs, shoes
+made_of_glass	marble, lantern, jug, bus, clock, table, dresser, coffee_machine, mirror
+is_found_in_Britain_UK_England	umbrella, sycamore, carrot, kingfisher, cod, magpie, broccoli, celery, rolls_royce
+is_for_children	stool, tambourine, crayon, swing, mittens, ketchup, pony, encyclopaedia, guinea_pig
+is_entertaining_fun	swing, skateboard, catapault, crayon, bow, surfboard, football, mask, balloon
+is_cute	robin, squirrel, hamster, lamb, seahorse, guinea_pig, sparrow, budgie, lizard
+has_a_beak	peacock, hummingbird, falcon, wren, hawk, parakeet, robin, raven, dove
+has_feathers	duck, penguin, cushion, ostrich, sparrow, swan, chicken, robin
+is_found_in_gardens	lettuce, marigold, swing, wren, dandelion, gate, daisy, caterpillar
+has_wheels	jeep, buggy, tank, porsche, ambulance, unicycle, truck, bin
+has_skin	calf, trout, walrus, nose, sultana, seahorse, hippo, turkey
+made_of_rubber	slippers, raft, wetsuit, kayak, swing, football, skateboard, spatula
+has_a_point	nail, pyramid, surfboard, hook, knife, chisel, corkscrew, needle
+made_of_cotton	stockings, sofa, mittens, cloak, dress, tights, gown, earmuffs
+is_smooth	marble, mirror, peach, rolling_pin, bowl, basin, cutting_board, banana
+is_scary	rat, alligator, eel, bomb, revolver, hornet, mouse, lorry
+is_a_fruit	blueberry, raspberry, dates, watermelon, prune, avocado, melon, lime
+is_any_size	tent, stone, spoon, spanner, bone, tomato, tongs, box
+is_a_bird	turkey, wren, flamingo, nightingale, heron, raven, chicken, swan
+has_an_engine	tractor, taxi, plough, rolls_royce, speedboat, car, tugboat
+is_transport	aeroplane, glider, speedboat, wheelchair, van, tank, submarine
+has_a_body	eel, cello, shrimp, centipede, beetle, moth, butterfly
+is_for_women_females_girls	bracelet, blouse, swimsuit, tweezers, flip_flops, shirt, gown
+is_a_weapon	hatchet, pistol, rocket, dagger, sword, bullet, rock
+has_roots	moss, birch, oak, dandelion, carnation, elm, geranium
+does_grow_in_ground	peanut, pineapple, aubergine, pansy, daffodil, brussel_sprouts, celery
+is_a_vehicle	cart, aeroplane, train, caravan, rolls_royce, porsche, tractor
+does_live_in_water	eel, goldfish, shark, jellyfish, snail, clam, shrimp
+is_orange	peach, plum, crayfish, carrot, tiger, pumpkin, giraffe
+is_electric	coffee_machine, projector, toaster, dishwasher, stove, fridge, washing_machine
+made_of_leather	armour, bellows, watch, cloak, coat, bracelet, belt
+is_comfortable	carriage, armchair, cradle, shoes, sweater, deckchair, sofa
+has_ears	cow, dog, horse, gerbil, elephant, lamb, rabbit
+has_a_door_doors	oven, land_rover, ferry, stove, porsche, dishwasher, gate
+does_run	emu, zebra, hyena, cheetah, rat, mouse, gerbil
+is_tall	camel, pine, emu, eucalyptus, dresser, yacht
+is_wild	tiger, buttercup, gorilla, cheetah, horse, hyena
+is_a_vegetable	mushroom, cauliflower, lettuce, gherkin, sweet_potato, spinach
+is_associated_with_summer	sandals, skirt, grasshopper, asparagus, wasp, buttercup
+has_buttons	french_horn, camera, trousers, parka, saxophone, skirt
+is_slow	turtle, houseboat, porcupine, lizard, stick_insect, oil_tanker
+is_warm	bed, parka, dressing_gown, jacket, stove, cloak
+is_sold_bought	lemonade, sellotape, dates, camera, carrot, screw
+is_decorative	marigold, mat, jug, mirror, bracelet, rattle
+is_cylindrical	cannon, bullet, lipstick, leek, gherkin, spear
+does_crawl	toad, crocodile, ladybird, stick_insect, ant, hedgehog
+is_an_insect	cricket, housefly, caterpillar, bee, flea, centipede
+does_hurt	bayonet, bat, club, leg, hammer, screw
+does_photosynthesise	rose, sunflower, pine, dandelion, marigold, poppy
+does_break	thermometer, biscuit, seashell, plate, comb, jug
+is_a_musical_instrument	french_horn, trombone, cello, accordion, bagpipes, tuba
+does_travel	sledge, jeep, yacht, truck, ship, coach
+has_a_nose	guinea_pig, porcupine, horse, seahorse, bat, aeroplane
+is_juicy	lime, kiwi_fruit, plum, grape, grapefruit, pear
+is_disgusting_taste_bad	broccoli, aubergine, grapefruit, clam, scallop, whisky
+has_a_blade_blades	scissors, peeler, knife, helicopter, bayonet, bat
+is_cheap	houseboat, moped, football, tweezers, caravan, flip_flops
+made_of_wool	sweater, scarf, mat, jacket, stockings, cloak
+does_make_music	gong, saxophone, bagpipes, harmonica, trumpet
+has_a_mouth	hippo, crocodile, iguana, lizard, mask
+is_aggressive	shark, alligator, hippo, goose, hyena
+has_antenna	cockroach, lobster, prawn, termite, ant
+made_of_paper	certificate, newspaper, kite, bouquet, menu
+is_used_in_sport	glider, whistle, canoe, wetsuit, kayak
+does_carry_transport_people	rolls_royce, van, canoe, aeroplane, yacht
+has_pips_seeds	watermelon, satsuma, orange, grape, pear
+does_cover	stockings, mask, cloak, skirt, wetsuit
+does_smell_good_nice	pansy, pine, eucalyptus, rose, geranium
+is_watertight_waterproof	swimsuit, sink, parka, cup, wetsuit
+is_cold	soup, beer, milk, fridge, tea
+is_clear_transparent	jelly, cage, shrimp, prawn, nail_polish
+is_played_does_play	harmonica, banjo, harpsichord, accordion, trombone
+does_drive_is_driven	lorry, land_rover, jeep, porsche, speedboat
+does_grow_on_trees	lime, pear, pineapple, dates, kiwi_fruit
+is_patterned	butterfly, mug, napkin, apron, skirt
+is_a_toy	skateboard, ball, swing, sledge, kite
+does_float	raft, coconut, balloon, canoe, jellyfish
+is_manmade	bolts, buggy, stick, boomerang, wheel
+is_a_carnivore_eats_meat	buzzard, hyena, rattlesnake, cat, hawk
+has_four_wheels	ambulance, pram, coach, limousine, bus
+made_of_cells	onion, eel, artichoke, birch, crayfish
+does_contain_hold	ashtray, bag, cup, chest_of_drawers, spoon
+has_a_neck	owl, llama, banjo, blouse, violin
+made_of_water_is_watery	soup, pear, lettuce, ketchup, gin
+is_popular	newspaper, carnation, tent, sandwich, tea
+has_a_shell	peanut, ladybird, prawn, chestnut, oyster
+is_a_fish	goldfish, sardine, scallop, trout, mackerel
+has_two_legs	sparrow, wren, trousers, partridge, seagull
+has_scales	crocodile, shark, mackerel, tortoise, rattlesnake
+has_six_legs	ladybird, butterfly, grasshopper, dragonfly, wasp
+is_silver	mackerel, trombone, cod, hook, sardine
+does_need_water	willow, rose, pine, hyacinth, marigold
+is_thick	wetsuit, coat, club, encyclopaedia, catalogue
+is_slimy	seaweed, scallop, crayfish, oyster, butter
+does_use_fuel_diesel_petrol	rolls_royce, rocket, car, van, chainsaw
+has_windows	helicopter, bus, range_rover, tent
+is_endangered	tiger, cheetah, alligator, rhino
+does_nest	hawk, kingfisher, starling, nightingale
+does_come_in_pairs	slippers, stockings, mittens, arm
+has_arms	armchair, throne, puppet, chandelier
+is_found_in_homes_houses	dresser, chest_of_drawers, washing_machine, bin
+is_used_in_battle_war	bullet, sword, armour, spear
+does_reproduce	guinea_pig, hyacinth, moose, poppy
+made_of_ceramic_china_clay_porcelain	coffee_pot, bell, pipe, oven
+does_cut	hoe, chisel, scissors, saw
+is_hollow	pipe, box, recorder, hose
+is_found_in_forests_woods	birch, moose, squirrel, oak
+is_liquid	perfume, glue, yoghurt, wine
+is_a_pet	hamster, gerbil, canary, iguana
+is_common	magpie, daisy, lemonade, housefly
+does_walk	lizard, crab, goose, crane
+does_jump	pony, locust, grasshopper, dolphin
+has_a_long_tail	lizard, panther, mouse, tiger
+is_a_predator	leopard, crocodile, centipede, tiger
+does_eat_fish	platypus, bear, shark, seal
+is_eaten_as_dessert	prune, plum, melon, rice
+is_dark	suit, scorpion, aubergine, cupboard
+is_meat	goat, sheep, lamb, tuna
+is_fashionable	sweater, skirt, satchel, jacket
+is_a_container	cage, kettle, coffin, coffee_pot
+does_eat_insects	scorpion, starling, lizard, frog
+has_paws	rat, dog, porcupine, squirrel
+has_holes	gloves, whistle, recorder, cheese
+has_sugar	lemonade, mango, doughnut, kiwi_fruit
+has_fins	mackerel, seal, carp, crayfish
+has_a_strap_straps	accordion, bikini, swimsuit, dress
+does_carry_transport_goods	truck, van, box, train
+has_sharp_teeth	chipmunk, wolf, bear, bat
+does_hunt	cheetah, tiger, fox, hyena
+is_found_in_zoos	seal, parakeet, alligator, lion
+is_a_pest	termite, rabbit, mosquito, pigeon
+is_flexible	toe, skis, lips, cork
+is_fragile_delicate	seashell, dragonfly, mirror, thermometer
+is_found_on_beaches	frisbee, bucket, kite, spade
+is_blue	cheese, hummingbird, mackerel, dragonfly
+does_eat_grass	buffalo, goat, deer, pony
+is_black_and_white	accordion, pelican, cow, calf
+does_live_in_rivers	hippo, goose, duck, minnow
+is_furniture	cradle, sofa, bench, lamp
+has_petals	pansy, carnation, buttercup, daffodil
+is_carried	bag, camera, penknife, umbrella
+does_store	barge, jug, fridge, dresser
+has_a_lid	yoghurt, lipstick, kettle, bottle
+is_hot	coffee_pot, toaster, microwave, lantern
+has_whiskers	gerbil, panther, guinea_pig, hamster
+has_a_frame	mirror, gong, buggy, bicycle
+made_of_silk	dress, shirt, stockings, bra
+is_for_men	trousers, scarf, pipe, whisky
+is_associated_with_Christmas	goose, turkey, greeting_card, robin
+has_hooves	zebra, giraffe, buffalo, ox
+has_big_teeth	chipmunk, hippo, pony, tiger
+is_poisonous	fern, nail_polish, tobacco, scorpion
+is_sour_sharp_acidic	blueberry, plum, gherkin, grapefruit
+has_varieties	orchid, owl, nut, mushroom
+is_dirty	toilet, rat, worm, cockroach
+is_short	moss, hair, fence, pamphlet
+is_squashy_squidgy_squishy	squid, armchair, tomato, slug
+is_purple	turnip, aubergine, mussel, hyacinth
+is_boiled	bean, asparagus, artichoke, rhubarb
+has_a_base	box, catapault, jug, raft
+is_unhealthy	mayonnaise, pipe, sugar, butter
+does_roll	ball, melon, rolling_pin, wheelchair
+has_long_legs	boots, emu, heron, calf
+is_found_in_fields	lamb, daisy, calf, mouse
+is_rare	deer, platypus, harp, kingfisher
+is_aerodynamic_streamlined	penguin, seal, glider
+does_bite	tarantula, crocodile, rattlesnake
+is_crunchy	biscuit, apple, celery
+has_vitamins	parsley, lemon, broccoli
+does_grow_in_hot_countries	satsuma, lime, olive
+has_muscles	eye, cat, leg
+has_a_cover	textbook, dictionary, book
+is_eaten_in_salad	lettuce, celery, olive
+is_solid	glue, bench, stone
+is_not_found_in_Britain	scorpion, rattlesnake, avocado
+has_a_zip	trousers, tent, bag
+made_of_synthetic_materials	cork, scarf, sweater
+is_annoying	rattle, castanets, moth
+is_ugly	walrus, oil_tanker, swimsuit
+does_hold_contain_liquid_water	jug, bottle, bath
+is_clever_intelligent	rat, encyclopaedia, goat
+is_found_in_a_bottle	mayonnaise, cider, wine
+has_a_strong_flavour	sardine, onion, olive
+is_found_in_Africa	rhino, zebra, buffalo
+is_herbivorous	tortoise, kangaroo, snail
+is_a_flower	rose, buttercup, geranium
+is_found_on_farms	chicken, sheep, tractor
+does_keep_warm	shirt, mug, earmuffs
+has_gills	cod, shark, mushroom
+is_wet	lips, mop, flannel
+does_kill_people	gun, alligator, cannon
+has_thick_skin	watermelon, alligator, pineapple
+has_a_steering_wheel	coach, jeep, truck
+is_a_symbol	eagle, arrow, leek
+is_striped	deckchair, gloves, scarf
+is_sat_on	stool, throne, wheelchair
+has_seeds	sunflower, sultana, marigold
+has_a_hole	pipe, olive, puppet
+made_of_steel	oil_tanker, bridge, machete
+is_fluffy	rice, flannel, dressing_gown
+is_golden	trombone, trumpet, pin
+made_of_elastic	sock, bikini, swimsuit
+does_live_in_hot_countries	cockroach, lizard, buffalo
+has_big_eyes	calf, iguana, seal
+is_fat	seal, hippo, rhino
+is_curved	boomerang, bow, anchor
+has_pockets	satchel, coat, shirt
+is_used_for_sandwiches	bacon, cheese, tuna
+is_blown	saxophone, recorder, bagpipes
+is_thrown	yoyo, stick, grenade
+is_found_on_water	boat, yacht, dinghy
+has_spots	deer, starling, ladybird
+is_found_in_schools	encyclopaedia, peg, satchel
+is_a_utensil	spatula, peeler, corkscrew
+has_sleeves	dressing_gown, gown, shirt
+has_a_tongue	iguana, giraffe, toad
+is_a_gift	necklace, cake, daffodil
+is_eaten_raw	carrot, radish, broccoli
+does_fold	greeting_card, menu, envelope
+is_used_for_baking	raisin, currant, rolling_pin
+does_open	greeting_card, umbrella, crowbar
+does_live_in_trees	owl, squirrel, nightingale
+is_hunted_is_prey	crocodile, moose, deer
+has_keys	trumpet, harpsichord, accordion
+is_hard_to_play	tuba, trombone, guitar
+is_used_in_army_military	bayonet, aeroplane, land_rover
+is_found_in_America	buffalo, chipmunk, tobacco
+is_camouflaged	leopard, grasshopper, stick_insect
+has_a_picture_pictures	book, encyclopaedia, menu
+is_a_body_part	nose, heart, tongue
+has_fat	goose, lipstick, arm
+is_natural	fern, rock, moss
+has_words	encyclopaedia, menu, book
+has_a_mouthpiece	french_horn, harmonica, pipe
+is_played_with	stick, skateboard, kite
+is_a_boat	dinghy, ship, barge
+is_used_for_cleaning	sink, hose, napkin
+made_of_fibre_glass	boat, canoe, kayak
+does_climb	monkey, goat, stick_insect
+is_a_rodent	skunk, chipmunk, mouse
+is_drunk	tea, lemonade, gin
+is_bitter	olive, ibuprofen, coffee
+has_a_hard_shell	scallop, clam, lobster
+made_of_brass	french_horn, tuba, buckle
+is_ridden	elephant, camel, horse
+is_for_soup	cup, clam, leek
+does_DIY	ladder, spirit_level, hammer
+is_rough	tongue, stick, mat
+does_sing	partridge, hummingbird, wren
+has_oil	butter, ferry, coconut
+is_slippery	eel, clam, butter
+has_green_leaves	willow, sycamore, radish
+is_in_an_orchestra	flute, trumpet, saxophone
+made_of_chemicals	aspirin, glue, bomb
+does_pollute	oil_tanker, truck, aeroplane
+is_for_holidays	tent, caravan, flip_flops
+does_go_on_roads	carriage, limousine, car
+is_furry	emu, coat, moss
+is_for_one_person	bicycle, glider, kayak
+is_ancient_medieval	shield, plough, fern
+has_flowers	artichoke, eucalyptus, cauliflower
+has_hard_tough_skin	iguana, pumpkin, melon
+is_nocturnal	wolf, cricket, mosquito
+does_sleep	walrus, cat, cheetah
+does_live_in_groups	bat, dolphin, monkey
+has_sides	ladder, bath, box
+is_a_drink	milk, cider, lemonade
+is_uncomfortable	jeans, stool, wetsuit
+has_a_top	pyjamas, table, cork
+is_an_appliance	microwave, television, telephone
+made_of_polyester	suit, parka, shirt
+has_ink	textbook, greeting_card, book
+made_of_silver	fork, coin, spoon
+is_used_to_build_used_by_builders	nail, oak, sandpaper
+has_a_long_handle	spear, shovel, broom
+has_a_long_neck	tortoise, camel, ostrich
+is_cool	saxophone, pipe, skateboard
+has_pollen	geranium, marigold, orchid
+is_posh	champagne, porsche, chandelier
+is_an_invertebrate	centipede, octopus, locust
+is_a_sea_animal	seahorse, octopus, crab
+is_worn_in_winter	tights, gloves, earmuffs
+is_exotic	iguana, eucalyptus, kiwi_fruit
+is_eaten_by_humans	corn, seaweed, cow
+is_a_kitchen_utensil	cutting_board, ladle, kitchen_scales
+is_farmed	ostrich, trout, sugar
+is_important	crane, bone
+has_a_stone	plum, avocado
+has_strings	harp, harpsichord
+has_a_back	chair, bench
+made_of_stone	basin, rock
+does_grow_on_plants	strawberry, nut
+is_salty	soup, butter
+is_an_accessory	scarf, belt
+has_information	book, brochure
+made_of_cardboard_card	badge, pamphlet
+is_for_special_occasions	nail_polish, bouquet
+does_squeak	guinea_pig, balloon
+has_a_plug	television, blender
+does_come_in_cans_tins	beer, prune
+is_for_sleep	buggy, pillow
+does_scuttle_scurry	crab, cockroach
+is_found_outside	bench, lantern
+has_a_wire_cord_cable	bridge, crane
+is_for_weddings	greeting_card, rolls_royce
+made_of_milk	bread, ice_cream
+is_used_in_cakes	cherry, currant
+has_big_wings	pelican, buzzard
+is_tasteless_bland	potato, lettuce
+does_burn	cigar, pipe
+is_seafood	squid, crab
+has_two_eyes	hamster, salmon
+does_live_by_water	lily, dragonfly
+has_thin_legs	flamingo, crane
+is_a_garden_tool	rake, spade
