@@ -1,6 +1,21 @@
 # semantic_concept_embeddings
 The code and datasets of "Distilling Semantic Concept Embeddings from Contrastively Fine-Tuned Language Models" presented in SIGIR'23.
 
+# Requirements
+- Python 3.7
+- transformers == 4.18.0
+- scikit-learn == 1.0.2
+- faiss == 1.7.2
+- pytorch-metric-learning == 1.0.0
+- gensim == 4.1.2
+
+# Usage
+## Run ConProj
+
+## Run ConFT
+
+## Run ConCN
+
 # Citation
 ```
 @inproceedings{Li_conceptembddings_sigir23,
