@@ -12,7 +12,7 @@ The code and datasets of "Distilling Semantic Concept Embeddings from Contrastiv
 # Usage
 Take the WordNet dataset as an example to show how to run the models.
 ### Preprocessing
-Firstly, collect sentences that mention the concept, one file for each concept. Store these sentence files in path ./sents_64_500.  <br>
+Firstly, collect sentences that mention the concept, one file for each concept. Store these sentence files in path ./sents_64_500.  <br><br>
 Secondly, extract masked mention vectors for concepts and store mention vectors to the path ./bert_mask_mv/
 ```
 python ./src/extract_mask_mv.py -w_file ./dataset/wordnet/wordnet.txt -batch_size 32 -max_seq_len 128 -bert_version bert-base-cased -out_path ./bert_mask_mv/ -sent_path ./sents_64_500
