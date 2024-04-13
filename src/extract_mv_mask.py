@@ -1,14 +1,11 @@
 import argparse
-import logging
 import sys
 import os
 
-import torch
-
 project_path = os.path.split(os.path.abspath(os.path.realpath(__file__)))[0] + "/../"
 sys.path.append(os.path.abspath(project_path))
-from src.utils import *
-from src.finetune_bert_utils import *
+from src.finetune_utils import *
+from transformers import AutoModelForMaskedLM
 
 
 def run(args):
@@ -77,11 +74,11 @@ def run(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     # parameters about model
-    parser.add_argument("-bert_version", help="bert version", default="../pretrained_models/bert-base-uncased")
+    parser.add_argument("-bert_version", help="bert version", default="bert-base-uncased")
 
     # parameters about IO
     parser.add_argument("-out_path", help="output path", default="mv")
-    parser.add_argument("-w_file", help="words file", default="../test.txt")
+    parser.add_argument("-w_file", help="words file", default="../words.txt")
     parser.add_argument("-sent_path", help="sentences path", default="../sents")
 
     # parameters about extracting
